@@ -1,33 +1,10 @@
-header{
-  color:black;
+.Steelers {
+  background-color: #FFEB00;
+  padding: 10px 0;
   text-align: center;
 }
-h3{
-  color:yellow;
-  text-align: center;
-}
-body{
-  width: 0 auto;
-  margin: 0 auto;
-  background-color: #000000;
-}
-section{
-  color: yellow;
-  text-align: center;
-}
- .new-item{
-   width:centered;
-   }
-p{
-  color: yellow;
-  text-align: center;
-}
-img{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-footer{
-  text-align: center;
-  color: yellow;
+.Logo {
+  font-size: 33px;
+  font-weight: bold;
+  text-transform: uppercase;
 }
